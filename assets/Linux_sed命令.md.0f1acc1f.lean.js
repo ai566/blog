@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as p,Q as l}from"./chunks/framework.3afb20c3.js";const F=JSON.parse('{"title":"sed命令","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/sed命令.md","filePath":"Linux/sed命令.md"}'),n={name:"Linux/sed命令.md"},o=l("",59),e=[o];function t(c,r,d,i,y,E){return a(),p("div",null,e)}const u=s(n,[["render",t]]);export{F as __pageData,u as default};

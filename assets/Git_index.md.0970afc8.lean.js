@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,Q as i}from"./chunks/framework.3afb20c3.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Git/index.md","filePath":"Git/index.md"}'),p={name:"Git/index.md"},r=i("",9),_=[r];function h(n,o,s,c,l,m){return e(),a("div",null,_)}const G=t(p,[["render",h]]);export{f as __pageData,G as default};

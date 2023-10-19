@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as s,Q as d}from"./chunks/framework.9bc09dc8.js";const f=JSON.parse('{"title":"条件表达式","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/条件表达式.md","filePath":"Linux/条件表达式.md"}'),e={name:"Linux/条件表达式.md"},l=d("",14),n=[l];function r(o,p,c,i,h,y){return a(),s("div",null,n)}const E=t(e,[["render",r]]);export{f as __pageData,E as default};

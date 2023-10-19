@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.3afb20c3.js";const _=JSON.parse('{"title":"第一个示例","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/第一个示例.md","filePath":"Vue/第一个示例.md"}'),l={name:"Vue/第一个示例.md"},o=p("",2),e=[o];function t(c,r,E,y,i,d){return a(),n("div",null,e)}const g=s(l,[["render",t]]);export{_ as __pageData,g as default};

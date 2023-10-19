@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,Q as n}from"./chunks/framework.3afb20c3.js";const E=JSON.parse('{"title":"终端提示符","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/终端提示符.md","filePath":"Linux/终端提示符.md"}'),p={name:"Linux/终端提示符.md"},l=n("",9),o=[l];function t(c,i,r,d,h,_){return a(),e("div",null,o)}const y=s(p,[["render",t]]);export{E as __pageData,y as default};

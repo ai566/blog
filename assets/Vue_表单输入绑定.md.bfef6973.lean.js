@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.3afb20c3.js";const d=JSON.parse('{"title":"表单输入绑定","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/表单输入绑定.md","filePath":"Vue/表单输入绑定.md"}'),p={name:"Vue/表单输入绑定.md"},o=l("",19),t=[o];function e(c,r,E,y,i,u){return n(),a("div",null,t)}const g=s(p,[["render",e]]);export{d as __pageData,g as default};

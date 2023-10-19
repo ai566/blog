@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as a,Q as r}from"./chunks/framework.3afb20c3.js";const m=JSON.parse('{"title":"查看文件内容","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/查看文件内容.md","filePath":"Linux/查看文件内容.md"}'),e={name:"Linux/查看文件内容.md"},o=r("",6),_=[o];function c(h,n,s,i,l,p){return d(),a("div",null,_)}const u=t(e,[["render",c]]);export{m as __pageData,u as default};

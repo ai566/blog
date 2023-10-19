@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.3afb20c3.js";const g=JSON.parse('{"title":"代理","description":"","frontmatter":{},"headers":[],"relativePath":"JavaScript/代理.md","filePath":"JavaScript/代理.md"}'),l={name:"JavaScript/代理.md"},o=p("",12),e=[o];function t(c,r,y,E,i,F){return a(),n("div",null,e)}const h=s(l,[["render",t]]);export{g as __pageData,h as default};

@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as r,Q as a}from"./chunks/framework.9bc09dc8.js";const f=JSON.parse('{"title":"rm命令","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/rm命令.md","filePath":"Linux/rm命令.md"}'),d={name:"Linux/rm命令.md"},o=a("",3),_=[o];function n(s,c,m,i,h,l){return e(),r("div",null,_)}const u=t(d,[["render",n]]);export{f as __pageData,u as default};

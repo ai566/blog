@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as s,Q as t}from"./chunks/framework.3afb20c3.js";const x=JSON.parse('{"title":"文件权限","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/文件权限.md","filePath":"Linux/文件权限.md"}'),o={name:"Linux/文件权限.md"},r=t("",14),n=[r];function c(l,p,i,h,d,_){return e(),s("div",null,n)}const m=a(o,[["render",c]]);export{x as __pageData,m as default};

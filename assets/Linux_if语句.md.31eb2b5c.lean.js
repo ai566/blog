@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.3afb20c3.js";const F=JSON.parse('{"title":"if语句","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/if语句.md","filePath":"Linux/if语句.md"}'),l={name:"Linux/if语句.md"},o=p("",16),e=[o];function c(t,r,y,i,E,h){return a(),n("div",null,e)}const C=s(l,[["render",c]]);export{F as __pageData,C as default};
