@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,Q as n}from"./chunks/framework.9bc09dc8.js";const v=JSON.parse('{"title":"变量","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/变量.md","filePath":"Linux/变量.md"}'),p={name:"Linux/变量.md"},o=n("",20),l=[o];function c(t,i,r,d,h,u){return a(),e("div",null,l)}const g=s(p,[["render",c]]);export{v as __pageData,g as default};

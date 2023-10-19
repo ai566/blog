@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.9bc09dc8.js";const g=JSON.parse('{"title":"父子组件传值","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/父子组件传值.md","filePath":"Vue/父子组件传值.md"}'),p={name:"Vue/父子组件传值.md"},o=l("",12),t=[o];function e(c,r,E,y,i,u){return a(),n("div",null,t)}const F=s(p,[["render",e]]);export{g as __pageData,F as default};

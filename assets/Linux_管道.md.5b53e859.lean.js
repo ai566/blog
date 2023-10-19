@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as o,Q as l}from"./chunks/framework.9bc09dc8.js";const h=JSON.parse('{"title":"管道","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/管道.md","filePath":"Linux/管道.md"}'),n={name:"Linux/管道.md"},e=l("",5),p=[e];function t(c,r,i,d,_,y){return a(),o("div",null,p)}const u=s(n,[["render",t]]);export{h as __pageData,u as default};

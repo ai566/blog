@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.9bc09dc8.js";const g=JSON.parse('{"title":"绑定样式","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/绑定样式.md","filePath":"Vue/绑定样式.md"}'),p={name:"Vue/绑定样式.md"},o=l("",9),e=[o];function t(c,r,E,y,i,d){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{g as __pageData,u as default};

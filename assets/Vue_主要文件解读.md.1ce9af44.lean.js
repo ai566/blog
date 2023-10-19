@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as p,Q as n}from"./chunks/framework.9bc09dc8.js";const h=JSON.parse('{"title":"主要文件解读","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/主要文件解读.md","filePath":"Vue/主要文件解读.md"}'),l={name:"Vue/主要文件解读.md"},o=n("",8),e=[o];function t(c,r,E,i,y,d){return a(),p("div",null,e)}const m=s(l,[["render",t]]);export{h as __pageData,m as default};

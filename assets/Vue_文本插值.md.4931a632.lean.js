@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.9bc09dc8.js";const g=JSON.parse('{"title":"文本插值","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/文本插值.md","filePath":"Vue/文本插值.md"}'),p={name:"Vue/文本插值.md"},o=l("",5),t=[o];function e(c,r,E,y,i,d){return a(),n("div",null,t)}const F=s(p,[["render",e]]);export{g as __pageData,F as default};

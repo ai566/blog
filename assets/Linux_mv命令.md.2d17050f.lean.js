@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,Q as r}from"./chunks/framework.9bc09dc8.js";const v=JSON.parse('{"title":"mv命令","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/mv命令.md","filePath":"Linux/mv命令.md"}'),d={name:"Linux/mv命令.md"},o=r("",3),_=[o];function n(s,c,i,m,h,l){return e(),a("div",null,_)}const f=t(d,[["render",n]]);export{v as __pageData,f as default};

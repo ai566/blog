@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.9bc09dc8.js";const g=JSON.parse('{"title":"事件","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/事件.md","filePath":"Vue/事件.md"}'),p={name:"Vue/事件.md"},o=l("",5),t=[o];function e(c,r,E,y,i,d){return n(),a("div",null,t)}const h=s(p,[["render",e]]);export{g as __pageData,h as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as t,Q as l}from"./chunks/framework.9bc09dc8.js";const y=JSON.parse('{"title":"curl命令","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/curl命令.md","filePath":"Linux/curl命令.md"}'),o={name:"Linux/curl命令.md"},e=l("",7),p=[e];function n(c,r,i,u,d,_){return a(),t("div",null,p)}const E=s(o,[["render",n]]);export{y as __pageData,E as default};

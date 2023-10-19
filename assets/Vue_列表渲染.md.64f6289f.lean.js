@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.9bc09dc8.js";const g=JSON.parse('{"title":"列表渲染","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/列表渲染.md","filePath":"Vue/列表渲染.md"}'),p={name:"Vue/列表渲染.md"},o=l("",9),t=[o];function e(c,r,E,y,i,d){return a(),n("div",null,t)}const h=s(p,[["render",e]]);export{g as __pageData,h as default};
